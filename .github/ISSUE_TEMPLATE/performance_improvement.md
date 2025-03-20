@@ -1,7 +1,7 @@
 ---
 name: "성능개선 제안 (Performance Improvement)"
 about: "현재 코드의 성능을 개선하거나 리소스 효율을 높이는 방법을 제안할 때 사용하세요."
-title: "[Performance] "
+title: "[Perf] "
 labels: performance
 assignees: ""
 ---
