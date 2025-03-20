@@ -1,6 +1,3 @@
-## 제목 (PR Title)
-- [Feature] / [Bugfix] / [Refactor] 등 간단한 분류와 요약
-
 ## 관련 이슈 (Related Issues)
 - 이 PR이 해결하거나 참고하고 있는 이슈 번호를 기재해 주세요.
   - 예) Closes #10 / Fixes #12 / Resolves #15
